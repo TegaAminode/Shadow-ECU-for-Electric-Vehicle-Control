@@ -1,6 +1,6 @@
 # Shadow ECU Proof-of-Concept (PoC)
 
-A prototype Shadow ECU system simulating a vehicle safety-critical module. This project demonstrates **actuator control, vision-based STOP sign detection, and data fusion** using Arduino and Python.
+A prototype Shadow ECU system that integrates a camera-based AI vision module, simulated CAN data, and a microcontroller-based actuator controller to demonstrate STOP-sign detection, data fusion, and safety-critical braking behavior.
 
 ---
 
