@@ -31,6 +31,11 @@ The Shadow ECU system consists of three main components:
 
 ---
 
+## 🎥 Video Demo
+Watch the full system demonstration here:
+
+👉 **[Video Demo](https://github.com/TegaAminode/Shadow-ECU-for-Electric-Vehicle-Control/blob/main/Demo%20Video/Demo%20Shadow%20ECU.mp4)**  
+
 ## Requirements
 
 - **Hardware**: Arduino Uno, servo motor, LED, connecting wires
