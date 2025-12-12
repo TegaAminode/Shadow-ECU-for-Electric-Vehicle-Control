@@ -1,4 +1,4 @@
-# Shadow ECU Proof-of-Concept (PoC)
+# Shadow ECU for Electric Vehicle Proof-of-Concept (PoC)
 
 A prototype Shadow ECU system that integrates a camera-based AI vision module, simulated CAN data, and a microcontroller-based actuator controller to demonstrate STOP-sign detection, data fusion, and safety-critical braking behavior.
 
